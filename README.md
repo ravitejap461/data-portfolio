@@ -2,7 +2,8 @@
 
 This repository contains real-world data projects focused on business + data + AI.
 
-## 📁 Projects
+## 🚀 Role-based Projects
 
-- [Pizza Sales Analysis](./pizza-sales-analysis/README.md)
-- [SaaS Customer Churn Analysis](./saas-churn-analysis/README.md)
+- [Decision Intelligence Analyst](./decision-intelligence-analyst/)
+- [Agentic Workflow Designer](./agentic-workflow-designer/)
+- [Business AI Strategist](./business-ai-strategist/)
